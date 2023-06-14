@@ -1,0 +1,155 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-29 15:36+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\center\apps.py:7
+msgid "Center and Staff"
+msgstr "Markaz va ishchilar"
+
+#: .\courses\apps.py:7
+msgid "Courses & Rooms & Groups"
+msgstr "Kurslar & Xonalar & Guruhlar"
+
+#: .\courses\models.py:6
+#, fuzzy
+msgid "Enter course name"
+msgstr "O'quvchi nomi kiriting"
+
+#: .\courses\models.py:6
+msgid "Course name"
+msgstr "Kurs nomi"
+
+#: .\courses\models.py:7
+msgid "Cost"
+msgstr "Kurs narxi"
+
+#: .\courses\models.py:7
+#, fuzzy
+#| msgid "Enter address"
+msgid "Enter cost"
+msgstr "Manzil kiriting"
+
+#: .\courses\models.py:16
+msgid "Room name"
+msgstr "Xona nomi"
+
+#: .\courses\models.py:17
+#, fuzzy
+#| msgid "Students "
+msgid "Students Count"
+msgstr "O'quvchilar"
+
+#: .\courses\models.py:32
+msgid "Group name"
+msgstr "Guruh nomi"
+
+#: .\courses\models.py:33
+msgid "Course"
+msgstr "Kurs"
+
+#: .\project\settings.py:132
+msgid "Uzbek"
+msgstr "O'zbekcha"
+
+#: .\project\settings.py:133
+msgid "English"
+msgstr "Inglizcha"
+
+#: .\project\settings.py:208
+msgid "Home"
+msgstr "Asosiy sahifa"
+
+#: .\project\settings.py:211 .\project\settings.py:226
+msgid "Support"
+msgstr "Qo'llab quvvatlash"
+
+#: .\students\models.py:10
+msgid "User"
+msgstr "Xodim"
+
+#: .\students\models.py:10
+msgid "Select User"
+msgstr "Xodimni tanlang"
+
+#: .\students\models.py:11
+#, fuzzy
+#| msgid "Center Name"
+msgid "Student Name"
+msgstr "O'quvchi nomi"
+
+#: .\students\models.py:11
+#, fuzzy
+msgid "Enter Student Name"
+msgstr "O'quvchi nomi kiriting"
+
+#: .\students\models.py:12
+msgid "Student Phone Number"
+msgstr "O'quvchi tel raqami"
+
+#: .\students\models.py:12
+#, fuzzy
+msgid "Enter Student Phone Number"
+msgstr "O'quvchi tel raqamini kiriting"
+
+#: .\students\models.py:13
+msgid "Parent Phone Number"
+msgstr "Ota-onani tel raqami"
+
+#: .\students\models.py:13
+#, fuzzy
+#| msgid "Enter center name"
+msgid "Enter Parent Phone Number"
+msgstr "Ota-onani tel raqamini kiriting"
+
+#: .\students\models.py:14
+msgid "Student Birth Year"
+msgstr "O'quvchi tug'ilgan yili"
+
+#: .\students\models.py:14
+msgid "Enter Student Birth Year"
+msgstr "O'quvchi tug'ilgan yilini kiriting"
+
+#: .\students\models.py:16
+msgid "Language"
+msgstr "O'quv tili"
+
+#: .\students\models.py:16
+#, fuzzy
+#| msgid "Center image"
+msgid "Enter language"
+msgstr "O'qish tilini kiriting"
+
+#: .\students\models.py:17
+msgid "Enter address"
+msgstr "Manzil kiriting"
+
+#: .\students\models.py:17
+msgid "Address"
+msgstr "Manzil"
+
+#: .\students\models.py:29
+msgid "Student "
+msgstr "O'quvchi"
+
+#: .\students\models.py:30
+msgid "Students "
+msgstr "O'quvchilar"
+
+#~ msgid "Upload center image"
+#~ msgstr "Markaz rasmini yuklang"
