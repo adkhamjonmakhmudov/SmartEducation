@@ -61,7 +61,7 @@ class EmpType(models.Model):
 
 
 class Employee(models.Model):
-    role = models.ForeignKey(EmpType, related_name='roles', on_delete=models.SET_NULL, null=True, blank=True)
+    role = models.ForeignKey('courses.EmpType', on_delete=models.SET_NULL, null=True, blank=True)
     name = models.CharField(max_length=100)
     phone = models.CharField(max_length=15, unique=True, verbose_name="Teacher Phone Number",
                              help_text="Enter Teacher Phone Number", null=True, blank=True)

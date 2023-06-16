@@ -40,7 +40,6 @@ class EmployeeSerializer(serializers.ModelSerializer):
     class Meta:
         model = Employee
         fields = ['id', 'role', 'name', 'course', 'phone', 'added']
-        depth = 1
 
 
 class GroupSerializer(serializers.ModelSerializer):
